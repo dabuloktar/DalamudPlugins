@@ -1,3 +1,3 @@
 ```text
-https://raw.githubusercontent.com/dabuloktar/DalamudPlugins/blob/main/repo
+https://raw.githubusercontent.com/dabuloktar/DalamudPlugins/main/repo.json
 ```
