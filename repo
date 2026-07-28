@@ -6,7 +6,7 @@
     "AssemblyVersion": "3.1.9.0",
     "TestingAssemblyVersion": "3.1.9.0",
     "Description": "Enhance your Final Fantasy XIV experience. Taiwan Dalamud API13 build.",
-    "Punchline": "",
+    "Punchline": "1",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/una-xiv/umbra",
     "DalamudApiLevel": 13,
@@ -21,5 +21,7 @@
     "DownloadLinkTesting": "https://github.com/dabuloktar/DalamudPlugins/releases/download/plugins-api13/Umbra.3.1.9.0.rar",
     "DownloadLinkUpdate": "https://github.com/dabuloktar/DalamudPlugins/releases/download/plugins-api13/Umbra.3.1.9.0.rar",
     "AcceptsFeedback": true
+    "LastUpdate":
+
   }
 ]
