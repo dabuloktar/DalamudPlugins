@@ -1,21 +1,20 @@
 [
-{
-  "Author": "Umbra",
-  "Name": "Umbra [TC api13]",
-  "InternalName": "Umbra-Dalamud",
-  "AssemblyVersion": "3.1.9.0",
-  "Description": "Umbra is a free project. If you enjoy using it, please consider supporting the development.",
-  "Punchline": "Enhance your Final Fantasy XIV experience.",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/una-xiv/umbra",
-  "DalamudApiLevel": 13,
-  "Tags": [
-    UI
-  ],
-  "DownloadLinkInstall": "https://github.com/dabuloktar/DalamudPlugins/releases/download/plugins-api13/Umbra.3.1.9.0.zip",
-  "DownloadLinkUpdate": "https://github.com/dabuloktar/DalamudPlugins/releases/download/plugins-api13/Umbra.3.1.9.0.zip",
-  "DownloadLinkTesting": "https://github.com/dabuloktar/DalamudPlugins/releases/download/plugins-api13/Umbra.3.1.9.0.zip",
-  "LastUpdate": 
-},
-{
+  {
+    "Author": "Umbra",
+    "Name": "Umbra [TC api13]",
+    "InternalName": "Umbra-Dalamud",
+    "AssemblyVersion": "3.1.9.0",
+    "Description": "Umbra is a free project. If you enjoy using it, please consider supporting the development.",
+    "Punchline": "Enhance your Final Fantasy XIV experience.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/una-xiv/umbra",
+    "DalamudApiLevel": 13,
+    "Tags": [
+      UI
+    ],
+    "DownloadLinkInstall": "https://github.com/dabuloktar/DalamudPlugins/releases/download/plugins-api13/Umbra.3.1.9.0.zip",
+    "DownloadLinkUpdate": "https://github.com/dabuloktar/DalamudPlugins/releases/download/plugins-api13/Umbra.3.1.9.0.zip",
+    "DownloadLinkTesting": "https://github.com/dabuloktar/DalamudPlugins/releases/download/plugins-api13/Umbra.3.1.9.0.zip",
+    "LastUpdate": 
+  }
 ]
