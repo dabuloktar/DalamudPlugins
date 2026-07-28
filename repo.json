@@ -1,22 +1,21 @@
 [
 {
-  "Author": "NightmareXIV",
-  "Name": "AntiAfkKick [TC api13]",
-  "InternalName": "AntiAfkKick-Dalamud",
-  "AssemblyVersion": "2.1.0.12",
-  "Description": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
-  "Punchline": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
+  "Author": "Umbra",
+  "Name": "Umbra [TC api13]",
+  "InternalName": "Umbra-Dalamud",
+  "AssemblyVersion": "3.1.9.0",
+  "Description": "Umbra is a free project. If you enjoy using it, please consider supporting the development.",
+  "Punchline": "Enhance your Final Fantasy XIV experience.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/lilasrepo/AntiAfkKick",
+  "RepoUrl": "https://github.com/una-xiv/umbra",
   "DalamudApiLevel": 13,
   "Tags": [
-    null
+    UI
   ],
-  "IconUrl": "https://raw.githubusercontent.com/lilasrepo/DalamudPlugins/main/icons/AntiAfkKick-Dalamud.png",
-  "DownloadLinkInstall": "https://github.com/lilasrepo/AntiAfkKick/releases/download/v2.1.0.12-TC13/AntiAfkKick-Dalamud.zip",
-  "DownloadLinkUpdate": "https://github.com/lilasrepo/AntiAfkKick/releases/download/v2.1.0.12-TC13/AntiAfkKick-Dalamud.zip",
-  "DownloadLinkTesting": "https://github.com/lilasrepo/AntiAfkKick/releases/download/v2.1.0.12-TC13/AntiAfkKick-Dalamud.zip",
-  "LastUpdate": 1785254687
+  "DownloadLinkInstall": "https://github.com/dabuloktar/DalamudPlugins/releases/download/plugins-api13/Umbra.3.1.9.0.rar",
+  "DownloadLinkUpdate": "https://github.com/dabuloktar/DalamudPlugins/releases/download/plugins-api13/Umbra.3.1.9.0.rar",
+  "DownloadLinkTesting": "https://github.com/dabuloktar/DalamudPlugins/releases/download/plugins-api13/Umbra.3.1.9.0.rar",
+  "LastUpdate": 
 },
 {
 ]
