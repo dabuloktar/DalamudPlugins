@@ -1,27 +1,22 @@
 [
-  {
-    "Author": "una-xiv",
-    "Name": "Umbra",
-    "InternalName": "Umbra-Dalamud",
-    "AssemblyVersion": "3.1.9.0",
-    "TestingAssemblyVersion": "3.1.9.0",
-    "Description": "Enhance your Final Fantasy XIV experience. Taiwan Dalamud API13 build.",
-    "Punchline": "1",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/una-xiv/umbra",
-    "DalamudApiLevel": 13,
-    "TestingDalamudApiLevel": 13,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/dabuloktar/DalamudPlugins/releases/download/plugins-api13/Umbra.3.1.9.0.rar",
-    "DownloadLinkTesting": "https://github.com/dabuloktar/DalamudPlugins/releases/download/plugins-api13/Umbra.3.1.9.0.rar",
-    "DownloadLinkUpdate": "https://github.com/dabuloktar/DalamudPlugins/releases/download/plugins-api13/Umbra.3.1.9.0.rar",
-    "AcceptsFeedback": true
-    "LastUpdate":
-
-  }
+{
+  "Author": "NightmareXIV",
+  "Name": "AntiAfkKick [TC api13]",
+  "InternalName": "AntiAfkKick-Dalamud",
+  "AssemblyVersion": "2.1.0.12",
+  "Description": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
+  "Punchline": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/lilasrepo/AntiAfkKick",
+  "DalamudApiLevel": 13,
+  "Tags": [
+    null
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/lilasrepo/DalamudPlugins/main/icons/AntiAfkKick-Dalamud.png",
+  "DownloadLinkInstall": "https://github.com/lilasrepo/AntiAfkKick/releases/download/v2.1.0.12-TC13/AntiAfkKick-Dalamud.zip",
+  "DownloadLinkUpdate": "https://github.com/lilasrepo/AntiAfkKick/releases/download/v2.1.0.12-TC13/AntiAfkKick-Dalamud.zip",
+  "DownloadLinkTesting": "https://github.com/lilasrepo/AntiAfkKick/releases/download/v2.1.0.12-TC13/AntiAfkKick-Dalamud.zip",
+  "LastUpdate": 1785254687
+},
+{
 ]
