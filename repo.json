@@ -44,8 +44,8 @@
     "Author": "Ottermandias, Adam, Wintermute",
     "Name": "Penumbra",
     "InternalName": "Penumbra",
-    "AssemblyVersion": "1.5.1.22",
-    "TestingAssemblyVersion": "1.5.1.22",
+    "AssemblyVersion": "1.5.1.23",
+    "TestingAssemblyVersion": "1.5.1.23",
     "RepoUrl": "https://github.com/cycleapple/Penumbra/tree/api13-tw-1.5.1",
     "ApplicableVersion": "any",
     "Punchline": "Runtime mod loader and manager.",
@@ -59,9 +59,9 @@
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW/releases/download/plugins-api13/Penumbra-1.5.1.22.zip",
-    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW/releases/download/plugins-api13/Penumbra-1.5.1.22.zip",
-    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW/releases/download/plugins-api13/Penumbra-1.5.1.22.zip",
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW/releases/download/plugins-api13/Penumbra-1.5.1.23.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW/releases/download/plugins-api13/Penumbra-1.5.1.23.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW/releases/download/plugins-api13/Penumbra-1.5.1.23.zip",
     "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW/main/icons/Penumbra.png"
   },
 ]
